@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "cef2b37b-8de2-4e67-ae78-76d3445c814e": {
+      "ProjectGuid": "cef2b37b-8de2-4e67-ae78-76d3445c814e",
+      "DisplayName": "CONTROLE 1 1ER SEMESTRE",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}

@@ -1,0 +1,22 @@
+C:\Users\dell\source\repos\CONTROLE 1 1ER SEMESTRE\CONTROLE 1 1ER SEMESTRE\bin\Debug\net6.0-windows\CONTROLE 1 1ER SEMESTRE.exe
+C:\Users\dell\source\repos\CONTROLE 1 1ER SEMESTRE\CONTROLE 1 1ER SEMESTRE\bin\Debug\net6.0-windows\CONTROLE 1 1ER SEMESTRE.deps.json
+C:\Users\dell\source\repos\CONTROLE 1 1ER SEMESTRE\CONTROLE 1 1ER SEMESTRE\bin\Debug\net6.0-windows\CONTROLE 1 1ER SEMESTRE.runtimeconfig.json
+C:\Users\dell\source\repos\CONTROLE 1 1ER SEMESTRE\CONTROLE 1 1ER SEMESTRE\bin\Debug\net6.0-windows\CONTROLE 1 1ER SEMESTRE.dll
+C:\Users\dell\source\repos\CONTROLE 1 1ER SEMESTRE\CONTROLE 1 1ER SEMESTRE\bin\Debug\net6.0-windows\CONTROLE 1 1ER SEMESTRE.pdb
+C:\Users\dell\source\repos\CONTROLE 1 1ER SEMESTRE\CONTROLE 1 1ER SEMESTRE\obj\Debug\net6.0-windows\CONTROLE 1 1ER SEMESTRE.vbproj.AssemblyReference.cache
+C:\Users\dell\source\repos\CONTROLE 1 1ER SEMESTRE\CONTROLE 1 1ER SEMESTRE\obj\Debug\net6.0-windows\CONTROLE_1_1ER_SEMESTRE.Form1.resources
+C:\Users\dell\source\repos\CONTROLE 1 1ER SEMESTRE\CONTROLE 1 1ER SEMESTRE\obj\Debug\net6.0-windows\CONTROLE_1_1ER_SEMESTRE.Resources.resources
+C:\Users\dell\source\repos\CONTROLE 1 1ER SEMESTRE\CONTROLE 1 1ER SEMESTRE\obj\Debug\net6.0-windows\CONTROLE 1 1ER SEMESTRE.vbproj.GenerateResource.cache
+C:\Users\dell\source\repos\CONTROLE 1 1ER SEMESTRE\CONTROLE 1 1ER SEMESTRE\obj\Debug\net6.0-windows\CONTROLE 1 1ER SEMESTRE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\source\repos\CONTROLE 1 1ER SEMESTRE\CONTROLE 1 1ER SEMESTRE\obj\Debug\net6.0-windows\CONTROLE 1 1ER SEMESTRE.AssemblyInfoInputs.cache
+C:\Users\dell\source\repos\CONTROLE 1 1ER SEMESTRE\CONTROLE 1 1ER SEMESTRE\obj\Debug\net6.0-windows\CONTROLE 1 1ER SEMESTRE.AssemblyInfo.vb
+C:\Users\dell\source\repos\CONTROLE 1 1ER SEMESTRE\CONTROLE 1 1ER SEMESTRE\obj\Debug\net6.0-windows\CONTROLE 1 1ER SEMESTRE.vbproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\CONTROLE 1 1ER SEMESTRE\CONTROLE 1 1ER SEMESTRE\obj\Debug\net6.0-windows\CONTROLE 1 1ER SEMESTRE.dll
+C:\Users\dell\source\repos\CONTROLE 1 1ER SEMESTRE\CONTROLE 1 1ER SEMESTRE\obj\Debug\net6.0-windows\ref\CONTROLE 1 1ER SEMESTRE.dll
+C:\Users\dell\source\repos\CONTROLE 1 1ER SEMESTRE\CONTROLE 1 1ER SEMESTRE\obj\Debug\net6.0-windows\CONTROLE 1 1ER SEMESTRE.pdb
+C:\Users\dell\source\repos\CONTROLE 1 1ER SEMESTRE\CONTROLE 1 1ER SEMESTRE\obj\Debug\net6.0-windows\CONTROLE 1 1ER SEMESTRE.genruntimeconfig.cache
+C:\Users\dell\source\repos\CONTROLE 1 1ER SEMESTRE\CONTROLE 1 1ER SEMESTRE\obj\Debug\net6.0-windows\CONTROLE_1_1ER_SEMESTRE.Form2.resources
+C:\Users\dell\source\repos\CONTROLE 1 1ER SEMESTRE\CONTROLE 1 1ER SEMESTRE\obj\Debug\net6.0-windows\CONTROLE_1_1ER_SEMESTRE.Form3.resources
+C:\Users\dell\source\repos\CONTROLE 1 1ER SEMESTRE\CONTROLE 1 1ER SEMESTRE\obj\Debug\net6.0-windows\CONTROLE_1_1ER_SEMESTRE.Form4.resources
+C:\Users\dell\source\repos\CONTROLE 1 1ER SEMESTRE\CONTROLE 1 1ER SEMESTRE\obj\Debug\net6.0-windows\CONTROLE 1 1ER SEMESTRE.sourcelink.json
+C:\Users\dell\source\repos\CONTROLE 1 1ER SEMESTRE\CONTROLE 1 1ER SEMESTRE\obj\Debug\net6.0-windows\refint\CONTROLE 1 1ER SEMESTRE.dll
