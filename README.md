@@ -30,8 +30,8 @@ Une application de gestion de librairie développée en .NET pour Windows, perme
 | Inscription | Connexion | Profil |
 |-------------|-----------|--------|
 | ![Inscription] (<img width="437" alt="inscrire" src="https://github.com/user-attachments/assets/10996fb5-a2ca-4cb3-9fa5-293260ea22df" />)
- | ![Connexion]( <img width="236" alt="seconnecter" src="https://github.com/user-attachments/assets/2e8eeba3-20e4-4535-9e8a-396e71a5e478" />
-  ) | ![Profil](  <img width="385" alt="profil" src="https://github.com/user-attachments/assets/34b23018-376e-406b-9f35-02e94908a608" />
+ | ![Connexion](<img width="236" alt="seconnecter" src="https://github.com/user-attachments/assets/2e8eeba3-20e4-4535-9e8a-396e71a5e478" />
+  ) | ![Profil](<img width="385" alt="profil" src="https://github.com/user-attachments/assets/34b23018-376e-406b-9f35-02e94908a608" />
  ) |
 
 | Gestion Livres | Affichage Livre | Panier |
