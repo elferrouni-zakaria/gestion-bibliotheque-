@@ -43,7 +43,8 @@ Une application de gestion de librairie développée en .NET pour Windows, perme
 
 | Inscription | Connexion | Profil |
 |-------------|-----------|--------|
-| ![Inscription](inscrire.png) | ![Connexion](seconnecter.png) | ![Profil](profil.png) |
+| ![Inscription](<img width="435" alt="livree" src="https://github.com/user-attachments/assets/82bc1395-05e9-49a4-a82c-424cdc8c3584" />
+) | ![Connexion](seconnecter.png) | ![Profil](profil.png) |
 ## Installation
 
 1. Cloner le dépôt :
