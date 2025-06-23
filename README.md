@@ -41,6 +41,9 @@ Une application de gestion de librairie développée en .NET pour Windows, perme
 ) | ![Panier]( <img width="196" alt="panier" src="https://github.com/user-attachments/assets/cb293092-01f9-4982-8aba-0eac95577aa2" />
  ) |
 
+| Inscription | Connexion | Profil |
+|-------------|-----------|--------|
+| ![Inscription](inscrire.png) | ![Connexion](seconnecter.png) | ![Profil](profil.png) |
 ## Installation
 
 1. Cloner le dépôt :
